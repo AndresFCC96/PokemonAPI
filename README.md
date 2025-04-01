@@ -9,11 +9,8 @@ este tipo de arquitectura.
 🛠️ Tecnologías utilizadas
 
 -Java (Spring Boot o JAX-RS) para el desarrollo del servicio REST.
-
 -JAX-WS para consumir la API SOAP de Pokémon.
-
 -Jackson para la conversión de XML a JSON.
-
 -Maven o Gradle para la gestión de dependencias.
 
 🚀 Funcionalidades
