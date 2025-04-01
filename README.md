@@ -35,7 +35,6 @@ Compila y ejecuta la aplicación:
 mvn spring-boot:run
 ```
 <br>
-
 o con Gradle:
 
 ```sh
