@@ -24,21 +24,20 @@ este tipo de arquitectura.
 
 Clona el repositorio:
 
-sh
-Copiar
-Editar
-git clone https://github.com/tu-usuario/PokeSOAP-to-REST.git
+```sh
+git clone https://github.com/tu-usuario/PokeSOAP-to-REST.git<br>
 cd PokeSOAP-to-REST
+```
+<br>
 Compila y ejecuta la aplicación:
 
-sh
-Copiar
-Editar
+```sh
 mvn spring-boot:run
+```
+<br>
+
 o con Gradle:
 
-sh
-Copiar
-Editar
+```sh
 ./gradlew bootRun
-
+```
