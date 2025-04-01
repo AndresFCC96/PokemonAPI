@@ -8,19 +8,20 @@ este tipo de arquitectura.
 
 🛠️ Tecnologías utilizadas
 
--Java (Spring Boot o JAX-RS) para el desarrollo del servicio REST.
--JAX-WS para consumir la API SOAP de Pokémon.
--Jackson para la conversión de XML a JSON.
--Maven o Gradle para la gestión de dependencias.
+-Java (Spring Boot o JAX-RS) para el desarrollo del servicio REST.<br>
+-JAX-WS para consumir la API SOAP de Pokémon.<br>
+-Jackson para la conversión de XML a JSON.<br>
+-Maven o Gradle para la gestión de dependencias.<br>
 
-🚀 Funcionalidades
+🚀 Funcionalidades<br>
 
-✅ Consumo de la API SOAP de Pokémon.
-✅ Conversión de las respuestas SOAP a formato JSON.
-✅ Exposición de los datos mediante un servicio RESTful.
-✅ Manejo de errores y validaciones.
+✅ Consumo de la API SOAP de Pokémon.<br>
+✅ Conversión de las respuestas SOAP a formato JSON.<br>
+✅ Exposición de los datos mediante un servicio RESTful.<br>
+✅ Manejo de errores y validaciones.<br>
 
-📦 Instalación y ejecución
+📦 Instalación y ejecución<br>
+
 Clona el repositorio:
 
 sh
